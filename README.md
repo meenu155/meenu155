@@ -17,7 +17,10 @@ I am a passionate **Full Stack Developer** who loves building impactful products
 ![LeetCode Stats](https://leetcard.jacoblin.cool/meenu155?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 
 ---
-
+---
+## Open Source Contribution in HacktoberFest
+[![An image of @meenu155s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meenu155)](https://holopin.io/@meenu155)
+---
 ### 🛠️ Projects
 
 | Project | Description | Tech Stack | Link |
