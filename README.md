@@ -13,14 +13,6 @@ I am a passionate **Full Stack Developer** who loves building impactful products
 
 ---
 ---
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meenu155&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenu155&layout=compact&lang… />
-</a>
-  
 ---
 
 ### 🔥 LeetCode Stats
